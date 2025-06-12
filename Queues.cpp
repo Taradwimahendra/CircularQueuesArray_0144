@@ -14,4 +14,6 @@ class Queues
         REAR = -1;
     }
 
+    void insert(){
+    }
 };
